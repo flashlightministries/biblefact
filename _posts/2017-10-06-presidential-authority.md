@@ -12,8 +12,6 @@ source:
 comments: true
 ---
 
-### The Claim:
-
 Texas pastor Robert Jeffress claims that "the Bible gives President Trump the moral authority to use whatever force necessary, including assassination or even war, to take out an evildoer."
 
 ### Is it Biblical?
