@@ -578,9 +578,12 @@ header.site-header nav {
     }
 }
 
-.rating {
-  margin-left: 33px;
+.rating-box {
   border: 4px solid black;
+ 
+  .rating {
+    margin-left: 33px;
+  }
 }
 
 /* Footer Stuff */
