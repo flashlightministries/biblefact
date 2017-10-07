@@ -21,7 +21,7 @@ This is unbiblical, but only because it includes the word "moral," which strongl
 
 While Romans 13:1 instructs "every soul be subject unto the higher powers" and affirms that "the powers that be are ordained of God," not all leaders are righteous.  1 Peter 2:18 restates the instruction to "be subject to your masters with all fear," but it further clarifies, "not only to the good and gentle, but also to the froward."  If you're unfamiliar with the word "froward," here's a fine definition:
 
-froward (*adj.*): contrary and intractable like Trump on a Twitter rampage.
+*froward* (adj.): contrary and intractable like Trump on a Twitter rampage.
 
 Here in 1 Peter 2:18, notably, "froward" is juxtaposed against "good and gentle" to draw out a contrast, meaning that it's a far cry from righteous.  Indeed, while God ordained the authority of pagan dictators like Pharaoh, Nebuchadnezzar and Cyrus, and guided their paths in order to bring about His greater plan of redemption, their God-given authority did not credit to them any amount of righteousness; not because of their wicked hearts or evil deeds, but because they lacked the sort of faith described in Hebrews 11 -- which is the same faith given by grace to all believers in Jesus Christ.
 
