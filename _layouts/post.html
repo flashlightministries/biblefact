@@ -28,9 +28,9 @@
 
     {{ content }}
     
-  <% if page.rating %>
+  {% if page.rating %}
     <image src="{{ site.url }}/images/gauges/{{ page.rating }}.png></image>
-  <% endif %>
+  {% endif %}
 
   <div class="post-sharing">
     {% include JB/sharing %}
