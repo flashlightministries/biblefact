@@ -27,6 +27,10 @@
     </header>
 
     {{ content }}
+    
+  <% if page.rating %>
+    <image src="{{ site.url }}/images/gauges/{{ page.rating }}.png></image>
+  <% endif %>
 
   <div class="post-sharing">
     {% include JB/sharing %}
