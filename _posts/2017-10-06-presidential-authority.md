@@ -5,6 +5,8 @@ title: Does the Bible give the President the moral authority to use unlimited fo
 passage: Romans 13
 image:
     feature: https://pbs.twimg.com/ext_tw_video_thumb/895409928063639552/pu/img/gSgqfCwlDzOfuO_L.jpg
+video:
+    feature: http://video.insider.foxnews.com/4967c8b2-5c30-44bf-b99c-481176d1bd80
 source:
     name: Washington Post
     url: http://insider.foxnews.com/2017/08/09/north-korea-guam-threat-donald-trump-bible-jeffress-kill-kim-jong-un
