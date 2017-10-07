@@ -50,4 +50,4 @@ Anyone who argues that confusion and disagreement among men over Bible interpret
 
 [Jeffress in The Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says)
 
-[PolitiFact on this claim](http://www.politifact.com/punditfact/article/2017/aug/11/does-bible-give-trump-moral-authority-kill-kim-jon/)
+[PolitiFact on this claim](http://www.politifact.com/punditfact/article/2017/aug/11/does-bible-give-trump-moral-authority-kill-kim-jon/){:target="_blank"}
