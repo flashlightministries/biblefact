@@ -4,7 +4,8 @@ author: T. C. Howitt
 title: Should Christians sue the gay coffee shop owner who refused to serve them based on their faith?
 passage: Matthew 5:38-48
 rating: unbiblical
-image: http://theliberator.news/wp-content/uploads/2017/10/Bedlam-HEAD.png
+image:
+    feature: http://theliberator.news/wp-content/uploads/2017/10/Bedlam-HEAD.png
 source:
     name: The Liberator
     url: http://theliberator.news/2017/homosexual-coffee-shop-owner-evicts-peaceful-christians/
