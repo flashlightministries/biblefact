@@ -44,7 +44,7 @@ At BibleFact, we believe that the Bible alone reveals objective truth, including
 
 Anyone who argues that confusion and disagreement among men over Bible interpretation impugns biblical authority must also admit that the continuing confusion and disagreement over political issues impugns PolitiFact's journalistic methodology of asserting "facts" based on citation of sources.  Put this way, we think PolitiFact would agree that controversy over any issue is no excuse for shrugging our shoulders and giving up on reason.  Differences of opinion indicate confusion among people, which is an unavoidable fact of life, but with God there is no confusion, and He has blessed us with His infallible word in scripture in order to bring light into the world.
 
-### Additional References:
+### References:
 
 [Jeffress on Fox News](http://insider.foxnews.com/2017/08/09/north-korea-guam-threat-donald-trump-bible-jeffress-kill-kim-jong-un){:target="_blank"}
 
