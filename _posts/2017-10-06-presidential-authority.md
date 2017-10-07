@@ -3,6 +3,7 @@ layout: post
 author: T. C. Howitt
 title: Does the Bible give the President the moral authority to use unlimited force?
 passage: Romans 13
+rating: unbiblical
 image:
     feature: https://pbs.twimg.com/ext_tw_video_thumb/895409928063639552/pu/img/gSgqfCwlDzOfuO_L.jpg
 source:
