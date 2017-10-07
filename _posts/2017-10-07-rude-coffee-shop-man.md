@@ -33,4 +33,4 @@ Now **that's** biblical.
 
 ### References:
 
-For a sampling of public responses to this incident, see the Comments section of this [article in The Blaze](http://www.theblaze.com/news/2017/10/07/gay-coffee-shop-owner-kicks-christians-out-of-cafe-goes-on-vulgar-rant-it-was-all-caught-on-video/){:target="_blank"}
+For a sampling of public responses to this incident, see the Comments section of this [article in The Blaze](http://www.theblaze.com/news/2017/10/07/gay-coffee-shop-owner-kicks-christians-out-of-cafe-goes-on-vulgar-rant-it-was-all-caught-on-video/){:target="_blank"}.
