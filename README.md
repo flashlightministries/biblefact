@@ -1,2 +1,2 @@
-# stedfastnews
-Stedfast News
+# biblefact
+BibleFact
