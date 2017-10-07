@@ -17,6 +17,11 @@ layout: default
               {% endif %}
             {% endif %}
           </div>
+          <div>
+            {% if post.rating %}
+              <image src="{{ site.url }}/images/gauge/{{ post.rating }}.png"></image>
+            {% endif %}
+          </div>
         </td>
 
         <td class="post-content-container">
