@@ -46,8 +46,8 @@ Anyone who argues that confusion and disagreement among men over Bible interpret
 
 ### References:
 
-[Jeffress on Fox News](http://insider.foxnews.com/2017/08/09/north-korea-guam-threat-donald-trump-bible-jeffress-kill-kim-jong-un)
+[Jeffress on Fox News](http://insider.foxnews.com/2017/08/09/north-korea-guam-threat-donald-trump-bible-jeffress-kill-kim-jong-un){:target="_blank"}
 
-[Jeffress in The Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says)
+[Jeffress in The Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says){:target="_blank"}
 
 [PolitiFact on this claim](http://www.politifact.com/punditfact/article/2017/aug/11/does-bible-give-trump-moral-authority-kill-kim-jon/){:target="_blank"}
