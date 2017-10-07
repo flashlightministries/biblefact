@@ -1,6 +1,13 @@
 ---
-layout: post-no-feature
+layout: post
+author: T. C. Howitt
 title: Does the Bible give the President the moral authority to use unlimited force?
+passage: Romans 13
+image:
+    feature: https://pbs.twimg.com/ext_tw_video_thumb/895409928063639552/pu/img/gSgqfCwlDzOfuO_L.jpg
+source:
+    name: Washington Post
+    url: http://insider.foxnews.com/2017/08/09/north-korea-guam-threat-donald-trump-bible-jeffress-kill-kim-jong-un
 comments: true
 ---
 
