@@ -24,7 +24,7 @@ While Romans 13:1 instructs "every soul be subject unto the higher powers" and a
 
 *froward* (adj.): contrary and intractable like Trump on a Twitter rampage.
 
-Here in 1 Peter 2:18, notably, "froward" is juxtaposed against "good and gentle" to draw out a contrast, meaning that it's a far cry from righteous.  Indeed, while God ordained the authority of pagan dictators like Pharaoh, Nebuchadnezzar and Cyrus, and guided their paths in order to bring about His greater plan of redemption, their God-given authority did not credit to them any amount of righteousness; not because of their wicked hearts or evil deeds, but because they lacked the sort of faith described in Hebrews 11 -- which is the same faith given by grace to all believers in Jesus Christ.
+1 Peter 2:18 juxtaposes "froward" against "good and gentle" to draw out a contrast, meaning that a froward leader is a far cry from righteous.  Indeed, while God ordained the authority of pagan dictators like Pharaoh, Nebuchadnezzar and Cyrus, and guided their paths in order to bring about His greater plan of redemption, their God-given authority did not credit to them any amount of righteousness; not because of their wicked hearts or evil deeds, but because they lacked the sort of faith described in Hebrews 11 -- which is the same faith given by grace to all believers in Jesus Christ.
 
 "As it is written, There is none righteous, no, not one" (Romans 3:10).
 
