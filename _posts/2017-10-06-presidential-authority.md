@@ -5,7 +5,7 @@ title: Does the Bible give the President the moral authority to use unlimited fo
 passage: Romans 13
 rating: unbiblical
 image:
-    feature: https://pbs.twimg.com/ext_tw_video_thumb/895409928063639552/pu/img/gSgqfCwlDzOfuO_L.jpg
+    feature: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_960w/2010-2019/Wires/Images/2017-07-01/Bloomberg/06060971.jpg&w=1484
 source:
     name: The Washington Post
     url: https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says
