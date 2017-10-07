@@ -6,7 +6,7 @@ passage: Romans 13
 image:
     feature: https://pbs.twimg.com/ext_tw_video_thumb/895409928063639552/pu/img/gSgqfCwlDzOfuO_L.jpg
 source:
-    name: Washington Post
+    name: The Washington Post
     url: http://insider.foxnews.com/2017/08/09/north-korea-guam-threat-donald-trump-bible-jeffress-kill-kim-jong-un
 comments: true
 ---
@@ -47,6 +47,6 @@ Anyone who argues that confusion and disagreement among men over Bible interpret
 
 [Jeffress on Fox News](http://insider.foxnews.com/2017/08/09/north-korea-guam-threat-donald-trump-bible-jeffress-kill-kim-jong-un)
 
-[Jeffress in Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says)
+[Jeffress in The Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says)
 
-[PolitiFact on Jeffress](http://www.politifact.com/punditfact/article/2017/aug/11/does-bible-give-trump-moral-authority-kill-kim-jon/)
+[PolitiFact on this claim](http://www.politifact.com/punditfact/article/2017/aug/11/does-bible-give-trump-moral-authority-kill-kim-jon/)
