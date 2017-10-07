@@ -18,7 +18,7 @@ The Bible gives President Trump the moral authority to use whatever force necess
 
 ### Is it Biblical?
 
-This is **unbiblical**, but only because it includes the word "moral," which strongly implies righteousness.
+This claim is **unbiblical**, but only because it includes the word "moral," which strongly implies righteousness.
 
 While Romans 13:1 instructs "every soul be subject unto the higher powers" and affirms that "the powers that be are ordained of God," not all leaders are righteous.  1 Peter 2:18 restates the instruction to "be subject to your masters with all fear," but it further clarifies, "not only to the good and gentle, but also to the froward."  If you're unfamiliar with the word "froward," here's a fine definition:
 
