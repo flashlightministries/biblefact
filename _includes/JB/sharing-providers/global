@@ -1,10 +1,14 @@
 <div id="fb-root"></div>
 
+<ul class="post-share ulno mob">
+
 <!-- Twitter -->
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-via="{{ site.JB.sharing.twitter.via }}" data-related="{{ site.owner.twitter }}" data-count="{{ site.JB.sharing.twitter.count }}" data-size="{{ site.JB.sharing.twitter.size }}">Tweet</a>
+<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-via="{{ site.JB.sharing.twitter.via }}" data-related="{{ site.owner.twitter }}" data-count="{{ site.JB.sharing.twitter.count }}" data-size="{{ site.JB.sharing.twitter.size }}">Tweet</a>
 
 <!-- Facebook -->
-<div class="fb-like" data-share="true" data-send="false" data-layout="{{ site.JB.sharing.facebook.layout }}" data-width="{{ site.JB.sharing.facebook.width }}" data-show-faces="{{ site.JB.sharing.facebook.faces }}" data-font="{{ site.JB.sharing.facebook.font }}"></div>
+<li class="fb"><div class="fb-like" data-share="true" data-send="false" data-layout="{{ site.JB.sharing.facebook.layout }}" data-width="{{ site.JB.sharing.facebook.width }}" data-show-faces="{{ site.JB.sharing.facebook.faces }}" data-font="{{ site.JB.sharing.facebook.font }}"></div>
+
+</ul>
 
 <script>
   
