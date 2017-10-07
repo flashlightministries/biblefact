@@ -18,9 +18,9 @@ A vulgarity-laced video shot by phone in a Seattle coffee shop is making the rou
 
 Suing a business for illegal discrimination is not in itself unbiblical, but it's important to consider the real motivation behind such a lawsuit.  Is it for actual protection from discrimination, or for striking back in anger to a perceived wrongdoing?  Our legal system exists to provide the first kind of protection, but it is God's job alone to render justice of the latter sort.
 
-"I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings" (Jer 17:10).
+"I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings" (Jeremiah 17:10).
 
-"Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord" (Rom 12:19).
+"Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord" (Romans 12:19).
 
 Jesus tells His followers to love our enemies and turn the other cheek (Matthew 5:38-48).  These aren't just platitudes, but commandments from God.
 
