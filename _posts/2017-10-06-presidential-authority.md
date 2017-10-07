@@ -9,7 +9,7 @@ image:
 source:
     name: The Washington Post
     url: https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says
-comments: true
+comments: false
 ---
 
 Texas pastor Robert Jeffress claims that "the Bible gives President Trump the moral authority to use whatever force necessary, including assassination or even war, to take out an evildoer."
