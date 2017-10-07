@@ -31,9 +31,14 @@
   <hr>
     
   {% if page.rating %}
-    <image class="gauge-image" src="{{ site.url }}/images/gauge/{{ page.rating }}.png"></image>
+    <div class="rating">
+      <h2>Rating</h2>
+      <image class="gauge-image" src="{{ site.url }}/images/gauge/{{ page.rating }}.png"></image>
+    </div>
   {% endif %}
 
+  <hr>    
+    
   <div class="post-sharing">
     {% include JB/sharing %}
   </div>
