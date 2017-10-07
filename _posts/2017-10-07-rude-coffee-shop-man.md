@@ -4,8 +4,7 @@ author: T. C. Howitt
 title: Should Christians sue the gay coffee shop owner who refused to serve them based on their faith?
 passage: Matthew 5:38-48
 rating: unbiblical
-image:
-    http://theliberator.news/wp-content/uploads/2017/10/Bedlam-HEAD.png
+image: http://theliberator.news/wp-content/uploads/2017/10/Bedlam-HEAD.png
 source:
     name: The Liberator
     url: http://theliberator.news/2017/homosexual-coffee-shop-owner-evicts-peaceful-christians/
@@ -34,4 +33,4 @@ Now **that's** biblical.
 
 ### References:
 
-[For a sampling of public responses to this incident, see the Comments section of this article in The Blaze](http://www.theblaze.com/news/2017/10/07/gay-coffee-shop-owner-kicks-christians-out-of-cafe-goes-on-vulgar-rant-it-was-all-caught-on-video/){:target="_blank"}
+For a sampling of public responses to this incident, see the Comments section of this [article in The Blaze](http://www.theblaze.com/news/2017/10/07/gay-coffee-shop-owner-kicks-christians-out-of-cafe-goes-on-vulgar-rant-it-was-all-caught-on-video/){:target="_blank"}
