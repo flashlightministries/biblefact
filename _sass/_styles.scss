@@ -908,6 +908,11 @@ small {
     z-index: 0;
 }
 
+tr.post-container {
+    display: block;
+    padding: 16px;
+}
+
 td.post-thumb-container {
     height: 119px;
     width: 84px;
