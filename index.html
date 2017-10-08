@@ -7,7 +7,7 @@ layout: default
   <table>
     {% for post in paginator.posts %}
       <tr class="post-container">
-        <td class="post-thumb-container">
+        <td>
           <div>
             {% if post.image.feature %}
               {% if post.image.feature contains 'https://' | escape or post.image.feature contains 'http://' | escape %}
