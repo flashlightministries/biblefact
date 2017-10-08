@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T. C. Howitt
-title: Should Christians sue the gay coffee shop owner who refused to serve them based on their faith?
+title: Should Christians sue the gay owner of a coffee shop who refused to serve them based on their faith?
 passage: Matthew 5:38-48
 rating: unbiblical
 image:
